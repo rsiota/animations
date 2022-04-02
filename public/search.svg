@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" id="jgvqkthssebfv98cpfq3i2v3" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 30 25" cursor="pointer" onclick="document.getElementById('jgvqkthssebfv98cpfq3i2v3').getAnimations({subtree:true}).forEach(function(a){a.currentTime=0;a.reverse()})" style="white-space: pre;">
+    <style>
+@keyframes pj0xkger3apk2b8wlqvbq4y2_t { 0% { transform: translate(15px,11.313708px) rotate(45deg) translate(-15px,-1px); } 100% { transform: translate(15px,11.313708px) rotate(45deg) translate(6px,-1px); } }
+@keyframes pj0xkger3apk2b8wlqvbq4y2_w { 0% { width: 30px; } 100% { width: 9px; } }
+@keyframes bzt2q9mcrnxms70llk95vved_o { 0% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes ucaistaeswv7wwck0jimi5n0_o { 0% { opacity: 0; } 100% { opacity: 1; } }
+    </style>
+    <g transform="translate(15,12.3137) translate(-15,-11.3137)">
+        <rect width="30" height="3" fill="#000000" stroke="none" transform="translate(15,11.3137) rotate(45) translate(-15,-1)" style="animation: 0.2s linear both pj0xkger3apk2b8wlqvbq4y2_t, 0.2s linear both pj0xkger3apk2b8wlqvbq4y2_w; "/>
+        <rect width="30" height="3" fill="#000000" stroke="none" opacity="1" transform="translate(15,11.3137) rotate(-45) translate(-15,-1)" style="animation: 0.2s linear both bzt2q9mcrnxms70llk95vved_o; "/>
+    </g>
+    <ellipse rx="9" ry="9" fill="none" stroke="#000000" stroke-width="3" opacity="0" transform="translate(13,11)" style="animation: 0.2s linear both ucaistaeswv7wwck0jimi5n0_o; "/>
+</svg>

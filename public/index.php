@@ -17,11 +17,22 @@ defined('BASE_FPATH') || define('BASE_FPATH', ESKIMO_BASE_PATH);
     <script defer src="https://unpkg.com/alpinejs@3.9.5/dist/cdn.min.js"></script>
   </head>
   <body>
+
+    <!-- Hamburger -->
     <div class="hamburger-wrapper" x-data="{ menuOpen: false }">
       <div class="hamburger" @click="menuOpen = !menuOpen">
         <?php echo file_get_contents( ESKIMO_PUBLIC_PATH . "/hamburger.svg") ?>
       </div>
       <p x-text="menuOpen"></p>
+    </div>
+
+
+    <!-- Search -->
+    <div class="search-wrapper" x-data="{ searchOpen: false }">
+      <div class="search" @click="searchOpen = !searchOpen">
+        <?php echo file_get_contents( ESKIMO_PUBLIC_PATH . "/search.svg") ?>
+      </div>
+      <p x-text="searchOpen"></p>
     </div>
   </body>
 </html>
