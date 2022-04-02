@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Keyshape -->
-<svg xmlns="http://www.w3.org/2000/svg" id="_a0" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 30 24" cursor="pointer" onclick="document.getElementById('_a0').getAnimations({subtree:true}).forEach(function(a){a.currentTime=0;a.reverse()})" style="white-space: pre;">
+<svg xmlns="http://www.w3.org/2000/svg" id="_a0" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 30 25" cursor="pointer" onclick="document.getElementById('_a0').getAnimations({subtree:true}).forEach(function(a){a.currentTime=0;a.reverse()})" style="white-space: pre;">
     <style>
 @keyframes a0_t { 0% { transform: translate(15px,11.313708px) rotate(45deg) translate(-15px,-1px); } 100% { transform: translate(15px,4.313708px) rotate(0deg) translate(-15px,-1px); } }
 @keyframes a1_o { 0% { opacity: 0; } 100% { opacity: 1; } }
 @keyframes a2_t { 0% { transform: translate(15px,11.313708px) rotate(-45deg) translate(-15px,-1px); } 100% { transform: translate(15px,18.313708px) rotate(0deg) translate(-15px,-1px); } }
     </style>
     <g transform="translate(15,12.3137) translate(-15,-11.3137)">
-        <rect width="30" height="2" fill="#000000" stroke="none" transform="translate(15,11.3137) rotate(45) translate(-15,-1)" style="animation: 0.2s linear both a0_t;"/>
-        <rect width="30" height="2" fill="#000000" stroke="none" opacity="0" transform="translate(15,11.3137) translate(-15,-1)" style="animation: 0.2s linear both a1_o;"/>
-        <rect width="30" height="2" fill="#000000" stroke="none" transform="translate(15,11.3137) rotate(-45) translate(-15,-1)" style="animation: 0.2s linear both a2_t;"/>
+        <rect width="30" height="3" fill="#000000" stroke="none" transform="translate(15,11.3137) rotate(45) translate(-15,-1)" style="animation: 0.2s linear both a0_t;"/>
+        <rect width="30" height="3" fill="#000000" stroke="none" opacity="0" transform="translate(15,11.3137) translate(-15,-1)" style="animation: 0.2s linear both a1_o;"/>
+        <rect width="30" height="3" fill="#000000" stroke="none" transform="translate(15,11.3137) rotate(-45) translate(-15,-1)" style="animation: 0.2s linear both a2_t;"/>
     </g>
 </svg>
