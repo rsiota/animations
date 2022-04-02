@@ -21,6 +21,7 @@ defined('BASE_FPATH') || define('BASE_FPATH', ESKIMO_BASE_PATH);
       <div class="hamburger" @click="menuOpen = !menuOpen">
         <?php echo file_get_contents( ESKIMO_PUBLIC_PATH . "/hamburger.svg") ?>
       </div>
+      <p x-text="menuOpen"></p>
     </div>
   </body>
 </html>
